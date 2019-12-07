@@ -23,3 +23,8 @@ Cons
 2.	Each platform has a specific design language and navigation patterns – iOS has been stricter for a very long time, and Android is catching up with material design. React Native provides the automatic transformation of the graphical elements according to the required platform. However, there might be some placement issues. As a result, you have to dive deep into the code and figure out how to adjust to the design guidelines.
 
 3.	Unlike native frameworks that ensure access to other native applications, React Native requires the use of third-party libraries or native modules to implement any integration no matter what technology you’re using.
+
+
+DEMO
+APP name: SupercarViewer
+
