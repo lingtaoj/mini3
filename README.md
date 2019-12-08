@@ -25,6 +25,7 @@ Cons
 3.	Unlike native frameworks that ensure access to other native applications, React Native requires the use of third-party libraries or native modules to implement any integration no matter what technology you’re using.
 
 Reference：https://railsware.com/blog/react-native-vs-native-app-development-ios-and-android-in-one-go/
+
 DEMO
 
 APP name: SupercarViewer
